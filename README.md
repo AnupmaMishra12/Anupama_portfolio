@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -147,4 +147,4 @@ You can connect with me and explore my work through the links below 👇
 🪪 License
 
 This project is licensed under the MIT License.
->>>>>>> ee932ce18b18da6d7a7e8f218542e66a5279a4e1
+
